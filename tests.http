@@ -33,9 +33,3 @@ Content-Type: application/json;IEEE754Compatible=true
 {"book_ID": 201, "amount": 5}
 
 
-###
-POST http://localhost:4004/odata/v4/catalog/Books
-Content-Type: application/json
-
-{"ID": 201, "title": "Some Title"}
-
