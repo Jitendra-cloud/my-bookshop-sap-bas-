@@ -36,6 +36,10 @@
     },
     "sql": {
       "native_hana_associations": false
-    }
+    },
+    "fiori": {
+    "preview": true
+  },
+  "server": { "index": true }
   }
 }
